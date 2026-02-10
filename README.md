@@ -4,31 +4,62 @@
    <h2 align="center">
 Tech Lead Power Platform </h2>
 <br>
-#### Hi ! My name is Sammy Rakotoarison
 
 </p>
 
-Contexte :
-Je suis Tech Lead Power Platform au sein de la DSIN @ Covéa. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes. 
-⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>
+#### = 🚀 Hi Hi ! My name is Sammy Rakotoarison
 
+
+Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes. 
+
+
+
+  <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
+
+<li style="margin-bottom:15px;">
+  <strong style="color:#0078D4;">Lecture RSS : </strong> Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
+</li>
+
+<li style="margin-bottom:15px;">
+  <strong style="color:#5C2D91;"> Filtrage intelligent: </strong>
+  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés..
+</li>
+
+<li style="margin-bottom:5px;">
+  <strong style="color:#4CC9F0;">Email HTML :</strong>
+  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
+</li>
+
+  </ul>
+
+⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>
+ 
+  
+𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
+
+* I’m currently learning Visual Code for YAML workflows and CI/CD Power Platform.
+* Create apps and report Power Bi with a good UX/UI
+  
+🐱 I love my Cat and Power Cat
+
+#### SKILLS
 
    <table>
 <tr>
 <td width="30%"  align="center"> 
   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
-  <h3 align="center">Récupération du flux RSS</h3>
+  <h3 align="center">Power Bi</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
 <td width="30%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="75%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
+  <h3 align="center"Power Bi</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
 
    <td width="30%"  align="center">
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="50px">
+  <h3 align="center">Power Bi</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
 </tr>
@@ -55,14 +86,8 @@ Avec la multiplication des rappels de produits pour bébés — notamment certai
 <p align="center">
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0eXA3anFsamI0bDE1ZmVmcGo2N3Z4c3A3dXBja3d5cXJyMHE4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJjLyXCVvro2I/giphy.gif" alt="Email" width="250px">
 
- 
-  
-𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
 
-* I’m currently learning Visual Code for YAML workflows and CI/CD Power Platform.
-* Create apps and report Power Bi with a good UX/UI
-  
-🐱 I love my Cat and Power Cat
+
 
 ### Microsoft Certified
 
