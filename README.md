@@ -3,7 +3,9 @@ Hi ! My name is Sammy Rakotoarison
 
 𝗧𝗲𝗰𝗵 𝗟𝗲𝗮𝗱 | Power Platform 
 ------------------------
-
+<p align="center">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0eXA3anFsamI0bDE1ZmVmcGo2N3Z4c3A3dXBja3d5cXJyMHE4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJjLyXCVvro2I/giphy.gif" alt="Email" width="250px">
+  
 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
 
 * I’m currently learning Visual Code for YAML workflows and CI/CD Power Platform.
@@ -15,7 +17,6 @@ Hi ! My name is Sammy Rakotoarison
 
 
  <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="100" height="100" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="100" height="100" /> 
-
 
 
 ### Socials
