@@ -13,6 +13,26 @@ Je suis Tech Lead Power Platform au sein de la DSIN @ Covéa. Mon rôle, adminis
 ⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>
 
 
+   <table>
+<tr>
+<td width="30%"  align="center"> 
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
+  <h3 align="center">Récupération du flux RSS</h3>
+  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
+</td>
+<td width="30%"  align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="75%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+
+   <td width="30%"  align="center">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+</tr>
+</table>
 Avec la multiplication des rappels de produits pour bébés — notamment certains lots de laits infantiles comme Gallia ou Guigoz — j’ai réalisé, en tant que jeune parent, combien il est essentiel d’être informé rapidement et de manière fiable. La sécurité des tout‑petits ne laisse aucune place au hasard, et manquer une alerte peut avoir des conséquences importantes. Pour éviter toute omission et gagner en sérénité, j’ai décidé d’automatiser cette veille. Ce projet repose sur Power Automate, qui récupère automatiquement les alertes du flux RSS officiel de RappelConso et nous notifie dès qu’un rappel touche un produit destiné aux bébés. Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidien.
 <h2 >
 
