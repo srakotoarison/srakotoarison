@@ -7,17 +7,16 @@ Tech Lead Power Platform </h2>
 
 </p>
 
-#### = 🚀 Hi Hi ! My name is Sammy Rakotoarison
+#### 🚀 Hi ! My name is Sammy Rakotoarison
 
 
 Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes. 
 
 
-
   <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
 
 <li style="margin-bottom:15px;">
-  <strong style="color:#0078D4;">Lecture RSS : </strong> Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
+  <strong style="color:#0078D4;">Lecture RSS : </strong> ⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
 </li>
 
 <li style="margin-bottom:15px;">
@@ -27,15 +26,15 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 
 <li style="margin-bottom:5px;">
   <strong style="color:#4CC9F0;">Email HTML :</strong>
-  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
+ 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
+ Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
 </li>
 
   </ul>
 
-⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>
+
  
   
-𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
 
 * I’m currently learning Visual Code for YAML workflows and CI/CD Power Platform.
 * Create apps and report Power Bi with a good UX/UI
@@ -46,22 +45,29 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 
    <table>
 <tr>
-<td width="30%"  align="center"> 
+<td width="25%"  align="center"> 
   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
   <h3 align="center">Power Bi</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
-<td width="30%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
+<td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
   <h3 align="center"Power Bi</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
 
-   <td width="30%"  align="center">
+   <td width="25%"  align="center">
   <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="50px">
   <h3 align="center">Power Bi</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
+
+  <td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="50px">
+  <h3 align="center">Power Bi</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+
 </tr>
 </table>
 Avec la multiplication des rappels de produits pour bébés — notamment certains lots de laits infantiles comme Gallia ou Guigoz — j’ai réalisé, en tant que jeune parent, combien il est essentiel d’être informé rapidement et de manière fiable. La sécurité des tout‑petits ne laisse aucune place au hasard, et manquer une alerte peut avoir des conséquences importantes. Pour éviter toute omission et gagner en sérénité, j’ai décidé d’automatiser cette veille. Ce projet repose sur Power Automate, qui récupère automatiquement les alertes du flux RSS officiel de RappelConso et nous notifie dès qu’un rappel touche un produit destiné aux bébés. Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidien.
