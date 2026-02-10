@@ -52,11 +52,15 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 <td width="25%"  align="center"> 
   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
   <h4 align="center">Power BI Admin</h4>
+   
 </td>
 
 <td width="25%"  align="center">
   <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
   <h4 align="center">Power Apps Dev</h4>
+   <p align="center">
+  Développé avec ❤️ par Sammy —  <a href="#">Voir mes autres projets</a>
+</p>
 </td>
 
   <td width="25%"  align="center">
