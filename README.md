@@ -1,11 +1,35 @@
 <p align="center">
-   <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" width="80px" />
+   <img src="https://github.com/srakotoarison/image/blob/main/Adoption.png" width="80px" />
+
+   <h2 align="center">
+Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
+<br>
 #### Hi ! My name is Sammy Rakotoarison
 
 </p>
-Contexte
+
+Contexte :
+Je suis Tech Lead Power Platform au sein de la DSIN @ Covéa. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes. 
+⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>
+
+
 Avec la multiplication des rappels de produits pour bébés — notamment certains lots de laits infantiles comme Gallia ou Guigoz — j’ai réalisé, en tant que jeune parent, combien il est essentiel d’être informé rapidement et de manière fiable. La sécurité des tout‑petits ne laisse aucune place au hasard, et manquer une alerte peut avoir des conséquences importantes. Pour éviter toute omission et gagner en sérénité, j’ai décidé d’automatiser cette veille. Ce projet repose sur Power Automate, qui récupère automatiquement les alertes du flux RSS officiel de RappelConso et nous notifie dès qu’un rappel touche un produit destiné aux bébés. Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidien.
 <h2 >
+
+   <table>
+<tr>
+<td width="50%"  align="center"> 
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="75%">
+  <h3 align="center">Récupération du flux RSS</h3>
+  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
+</td>
+<td width="50%"  align="center">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+</tr>
+</table>
 𝗧𝗲𝗰𝗵 𝗟𝗲𝗮𝗱 | Power Platform <br>
 ------------------------
 <p align="center">
