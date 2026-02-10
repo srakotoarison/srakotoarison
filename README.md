@@ -2,7 +2,7 @@
    <img src="https://github.com/srakotoarison/image/blob/main/Adoption.png" width="80px" />
 
    <h2 align="center">
-Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
+Tech Lead Power Platform </h2>
 <br>
 #### Hi ! My name is Sammy Rakotoarison
 
