@@ -10,12 +10,12 @@
 
 <table>
 <tr>
-<td width="25%"  align="center"> 
+<td width="50%"  align="center"> 
   <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
   <h3 align="center">Récupération du flux RSS</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
-<td width="25%"  align="center">
+<td width="50%"  align="center">
   <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
   <h3 align="center">Filtrage des alertes bébé</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
