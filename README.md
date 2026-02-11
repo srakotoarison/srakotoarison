@@ -20,7 +20,6 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
  • Déploiement Power Platform à grande échelle <br>
    • Migration OnPremise vers Cloud (SharePoint)  <br>
    • Custom CoE (Flows, Apps, Monitoring..)
-   • Custom Design System Low Code 
    Expertise•
    Gouvernance, sécurité et stratégie Power Platform 
    • ALM (Pipeline custom)• Accompagnement des Citizen Developers 
@@ -36,8 +35,9 @@ Power Bi Admin :</strong>
 
 <li style="margin-bottom:15px;">
   <strong style="color:#5C2D91;">  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="15px">
-Power Apps </strong>
-  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés..
+Power Apps Dev </strong>
+      • Custom Design System Low Code 
+
 </li>
 
 <li style="margin-bottom:5px;">
