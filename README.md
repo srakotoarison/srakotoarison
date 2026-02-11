@@ -18,32 +18,34 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
   <strong style="color:#0078D4;"> <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="15px"> Power Platform Admin </strong> <br>
 
  • Déploiement Power Platform à grande échelle <br>
-   • Migration OnPremise vers Cloud (SharePoint)  <br>
-   • Custom CoE (Flows, Apps, Monitoring..)
-   Expertise•
-   Gouvernance, sécurité et stratégie Power Platform 
-   • ALM (Pipeline custom)• Accompagnement des Citizen Developers 
-
+  • Strategie d'environnement, d'habilitation et sécurité <br>
+   • Custom CoE (Flows, Apps, Monitoring..)<br>
+   •  Gouvernance, sécurité et stratégie Power Platform <br>
+   • ALM (Pipeline custom)
+   <br>
+<br>
 </li>
 
 <li style="margin-bottom:5px;">
   <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px">
 Power Bi Admin :</strong>
- 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
+  • deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
-</li>
+</li><br>
 
 <li style="margin-bottom:15px;">
   <strong style="color:#5C2D91;">  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="15px">
-Power Apps Dev </strong>
-      • Custom Design System Low Code 
+Power Apps Dev </strong><br>
+      • Custom Design System Low Code <br>
+      • Accompagnement des Citizen Developers <br><br>
 
 </li>
 
 <li style="margin-bottom:5px;">
-  <strong style="color:#4CC9F0;">    <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="15px"> Power Automate</strong>
- 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
- Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
+  <strong style="color:#4CC9F0;">    <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="15px"> Power Automate Dev</strong>
+ • Support for Citizen Developer, <br>
+   • Accompagnement des Citizen Developers <br>
+   , custom COE Governance Flows, Apps and Monitoring Flow Runs<br>
 </li>
 
 
