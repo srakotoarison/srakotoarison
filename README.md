@@ -20,11 +20,11 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
    <br>
 <br>
 
-  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px"> Power Bi Admin</strong>
+  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px"> Power Bi Admin</strong><br>
    
   • Strategie de Workspace, d'habilitation et de sécurité <br>
   • Création de reporting avec Figma  <br>
-  •Template PBIT Design System <br>
+  • Template PBIT Design System <br>
  • Custom JSOON <br>
   <br>
 
