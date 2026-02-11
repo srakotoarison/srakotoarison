@@ -8,8 +8,6 @@
 
 ### 👋 Hello! I'm Sammy Rakotoarison
 
-
-Tech Lead – Power Platform
 I specialize in administering, governing, and scaling the Power Platform ecosystem. My mission is to support both end users and IT teams in adopting, securing, and maximizing the value of low‑code solutions.
 
 #### Skills
