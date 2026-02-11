@@ -10,7 +10,7 @@
 
 I specialize in administering, governing, and scaling the Power Platform ecosystem. My mission is to support both end users and IT teams in adopting, securing, and maximizing the value of low‑code solutions.
 
-#### Skills
+<br>
 
   <strong style="color:#0078D4;"> <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="15px"> Power Platform Administration </strong> <br>
 
