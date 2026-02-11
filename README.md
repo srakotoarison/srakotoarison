@@ -39,7 +39,7 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 
 #### Microsoft Certified
 
- <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="100" height="100" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="100" height="100" /> 
+ <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="75" height="75" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="75" height="75" /> 
 
 
 #### Skills
@@ -74,10 +74,10 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 
 #### Socials
 
-<p align="left"> <a href="https://www.github.com/srakotoarison" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sammy-rakotoarison" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">  <a href="https://www.linkedin.com/in/sammy-rakotoarison" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
 <p align="center">
-  Développé avec ❤️ par Sammy —  <a href="#">Voir mes autres projets</a>
+  Développé avec ❤️ par Sammy
 </p>
 
