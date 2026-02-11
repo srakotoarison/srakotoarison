@@ -6,7 +6,7 @@
 
 </p>
 
-#### 👋 Hello! I'm Sammy Rakotoarison
+### 👋 Hello! I'm Sammy Rakotoarison
 
 
 Tech Lead – Power Platform
