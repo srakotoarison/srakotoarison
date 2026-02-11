@@ -1,13 +1,74 @@
 <p align="center">
    <img src="https://github.com/srakotoarison/image/blob/main/Adoption.png" width="80px" />
 
-   <h2 align="center">
-Tech Lead Power Platform </h2>
+   <h2 align="center">Tech Lead Power Platform </h2>
 <br>
 
 </p>
 
 #### 🚀 Hi ! My name is Sammy Rakotoarison
+
+<table>
+<tr>
+<td width="25%"  align="center"> 
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="75%">
+  <h3 align="center">Récupération du flux RSS</h3>
+  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
+</td>
+<td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+   <td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+   <td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+</tr>
+</table>
+
+
+
+
+
+   <table width="100%">
+<tr>
+    <td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="50px">
+  <br>
+Power Platform Admin 
+</td>
+   
+<td width="25%"  align="center"> 
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
+ <br>
+Power BI Admin 
+   
+</td>
+
+<td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
+  <br>
+Power Apps Dev
+ 
+</td>
+
+  <td width="25%"  align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="50px">
+     <br>  Power Automate Dev
+</td>
+</tr>
+</table>
+
+
+--------------------------
+
 
 
 Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes. 
