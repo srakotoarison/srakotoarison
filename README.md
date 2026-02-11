@@ -12,7 +12,6 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 
 #### Skills
 
-
   <strong style="color:#0078D4;"> <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="15px"> Power Platform Admin </strong> <br>
 
  • Strategie d'environnement, d'habilitation et de sécurité <br>
@@ -45,10 +44,3 @@ Power Apps Dev </strong><br>
 #### Microsoft Certified
 
  <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="50" height="50" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="50" height="50" /> 
-
-
-
-<p align="center">
-  Développé avec ❤️ par Sammy
-</p>
-
