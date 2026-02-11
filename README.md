@@ -35,14 +35,18 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 
 * I’m currently learning Visual Code for YAML workflows and CI/CD Power Platform.
 * Create apps and report Power Bi with a good UX/UI
-  
+
+
 #### Microsoft Certified
 
  <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="100" height="100" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="100" height="100" /> 
 
+
 #### Skills
 
-   <table>
+
+
+   <table width="100px">
 <tr>
     <td width="25%"  align="center">
   <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="50px">
@@ -58,16 +62,13 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 <td width="25%"  align="center">
   <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
   <h4 align="center">Power Apps Dev</h4>
-   <p align="center">
-  Développé avec ❤️ par Sammy —  <a href="#">Voir mes autres projets</a>
-</p>
+ 
 </td>
 
   <td width="25%"  align="center">
   <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="50px">
   <h4 align="center">Power Automate Dev</h4>
 </td>
-
 </tr>
 </table>
 
