@@ -8,98 +8,6 @@
 
 #### 🚀 Hi ! My name is Sammy Rakotoarison
 
-<table>
-<tr>
-<td width="50%"  align="center"> 
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Récupération du flux RSS</h3>
-  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
-</td>
-<td width="50%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%"  align="center"> 
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Récupération du flux RSS</h3>
-  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
-</td>
-<td width="50%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="25%"  align="center"> 
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Récupération du flux RSS</h3>
-  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
-</td>
-<td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
-</td>
-   <td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg"" width="25%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
-</td>
-   <td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="25%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
-</td>
-</tr>
-</table>
-
-
-
-
-   <table width="100%">
-<tr>
-    <td width="25%"  align="center">
-  <img src=" width="50px">
-  <br>
-Power Platform Admin 
-</td>
-   
-<td width="25%"  align="center"> 
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
- <br>
-Power BI Admin 
-   
-</td>
-
-<td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
-  <br>
-Power Apps Dev
- 
-</td>
-
-  <td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="50px">
-     <br>  Power Automate Dev
-</td>
-</tr>
-</table>
-
-
---------------------------
-
-
-
 Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes. 
 
 
@@ -135,32 +43,35 @@ Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider le
 #### Skills
 
 
+  <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
 
-   <table width="100px">
-<tr>
-    <td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="50px">
-  <h4 align="center">Power Platform Admin </h4>
-</td>
-   
-<td width="25%"  align="center"> 
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
-  <h4 align="center">Power BI Admin</h4>
-   
-</td>
+<li style="margin-bottom:15px;">
+  <strong style="color:#0078D4;"> <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="15px"> Power Platform : </strong> 
+   ⭐️ Success Stories • Déploiement Power Platform à grande échelle • Migration OnPremise vers Cloud (SharePoint) • Custom CoE (Flows, Apps, Monitoring..) • Custom Design System Low Code 📄 Expertise• Gouvernance, sécurité et stratégie Power Platform • ALM (Pipeline custom)• Accompagnement des Citizen Developers 📚 Mémoire sur l’engagement autour du Low Code </p>Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
+</li>
 
-<td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
-  <h4 align="center">Power Apps Dev</h4>
- 
-</td>
+<li style="margin-bottom:5px;">
+  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="50px">
+ Email HTML :</strong>
+ 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
+ Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
+</li>
 
-  <td width="25%"  align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="50px">
-  <h4 align="center">Power Automate Dev</h4>
-</td>
-</tr>
-</table>
+<li style="margin-bottom:15px;">
+  <strong style="color:#5C2D91;">  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="50px">
+ Filtrage intelligent: </strong>
+  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés..
+</li>
+
+<li style="margin-bottom:5px;">
+  <strong style="color:#4CC9F0;">    <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="15px"> Email HTML :</strong>
+ 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝘀𝘁𝗼𝗿𝗶𝗲𝘀: deployment of the Power Platform, support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
+ Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
+</li>
+
+  </ul>
+
+
 
 #### Socials
 
