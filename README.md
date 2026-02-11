@@ -6,68 +6,46 @@
 
 </p>
 
-#### 🚀 Hi ! My name is Sammy Rakotoarison
+#### Hello ! My name is Sammy Rakotoarison
 
 Je suis Tech Lead Power Platform. Mon rôle, administrer, superviser et aider les utilisateurs finaux et IT à adopter et à utiliser ces plateformes.  
 
 #### Skills
 
-  <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
 
-<li style="margin-bottom:15px;">
   <strong style="color:#0078D4;"> <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="15px"> Power Platform Admin </strong> <br>
 
- • 🔜 Déploiement Power Platform à grande échelle <br>
  • Strategie d'environnement, d'habilitation et de sécurité <br>
- • Custom CoE (Flows, Apps, Monitoring..)<br>
+ • Custom CoE (Flows, Apps, Monitoring, Maker..)<br>
  • ALM Custom (Pipeline custom)
    <br>
 <br>
-</li>
 
-<li style="margin-bottom:5px;">
-  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px">Power Bi Admin :</strong>
+  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px"> Power Bi Admin</strong>
    
-  • Déploiement Power Bi à grande échelle <br>
   • Strategie de Workspace, d'habilitation et de sécurité <br>
-  • Création de reporting avec Figma 
-  •Tempalte PBIT Design System
- • Custom JSOON
-  
-  •  support for Citizen Developer, Low Code design system, migration of PRNAS into the SharePoint environment, memory on Low Code and engagement, custom COE Governance Flows, Apps and Monitoring Flow Runs
- Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
-</li><br>
+  • Création de reporting avec Figma  <br>
+  •Template PBIT Design System <br>
+ • Custom JSOON <br>
+  <br>
 
-<li style="margin-bottom:15px;">
-  <strong style="color:#5C2D91;">  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="15px">
+  <strong style="color:#5C2D91;">  <img src="https://github.com/srakotoarison/image/blob/main/PowerApps_scalable.svg" width="15px"> 
 Power Apps Dev </strong><br>
       • Custom Design System Low Code <br>
-      • Canvas Apps Creator Kit
-   • Custom Connector 
-   Dataflow (API, File..)
-   Dataverse 
-      • Accompagnement des Citizen Developers <br><br>
-HTML
-</li>
+      • Canvas Apps Creator Kit <br>
+   • Custom Connector <br>
+   • Dataflow (API, File..)<br>
+   <br>
 
-<li style="margin-bottom:5px;">
   <strong style="color:#4CC9F0;">    <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="15px"> Power Automate Dev</strong>
    
-   • Accompagnement des Citizen Developers <br>
-   • Monitoring Flows Run <br>
-</li>
-
+   • Custom mail HTML <br>
+   • Monitoring Flows Runs <br>
 
 #### Microsoft Certified
 
- <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="75" height="75" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="75" height="75" /> 
+ <img src="https://github.com/srakotoarison/image/blob/main/PL900.png" width="50" height="50" />  <img src="https://github.com/srakotoarison/image/blob/main/PL100.png" width="50" height="50" /> 
 
-
-
-
-#### Socials
-
-<p align="left">  <a href="https://www.linkedin.com/in/sammy-rakotoarison" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
 <p align="center">
