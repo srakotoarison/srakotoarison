@@ -8,24 +8,24 @@
 
 ### 👋 Hello! I'm Sammy Rakotoarison
 
-I specialize in administering, governing, and scaling the Power Platform ecosystem. My mission is to support both end users and IT teams in adopting, securing, and maximizing the value of low‑code solutions.
+I specialize in administering, governing, and scaling the <strong> Microsoft Power Platform ecosystem. </strong> My mission is to help both end users and IT teams <strong> adopt, secure, and maximize </strong> the value of low‑code solutions.
 
 <br>
 
   <strong style="color:#0078D4;"> <img src="https://github.com/srakotoarison/image/blob/main/PowerPlatform_scalable.svg" width="15px"> Power Platform Administration </strong> <br>
 
  • Environment, security, and access strategy<br>
- • Custom CoE (Flows, Apps, Monitoring, Maker operations…)
+ • Custom CoE (Flows, Apps, Monitoring, Maker operations, etc.)
 <br>
- • Custom ALM (Pipeline)
+ • Custom ALM (Pipelines)
    <br>
 <br>
 
-  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px"> Power Bi Admin</strong><br>
+  <strong style="color:#4CC9F0;">   <img src="https://github.com/srakotoarison/image/blob/main/PowerBI_scalable.svg" width="15px"> Power Bi Administration</strong><br>
    
   • Workspace, security, and governance strategy
  <br>
-  • Report creation using Figma‑based designs
+  • Report creation based on Figma designs
  <br>
   •  Design System templates
  <br>
@@ -38,7 +38,7 @@ Power Apps Development </strong><br>
       • Creator Kit <br>
    • Custom Connectors
  <br>
-   • Dataflows (API, files, etc.)<br>
+   • Dataflows (APIs, files, etc.)<br>
    <br>
 
   <strong style="color:#4CC9F0;">    <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="15px"> Power Automate Development</strong>
